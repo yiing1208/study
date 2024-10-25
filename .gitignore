@@ -1,5 +1,5 @@
-#.gitignore
-#folder
+.gitignore
+folder
 
 #設定不要忽略note.txt檔
 !note.txt
